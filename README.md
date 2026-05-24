@@ -1,8 +1,12 @@
 # Smartकृषि 🌾
+## 🔗 Live Demo
+
+https://smartkrishi-two.vercel.app/
 
 Smartकृषि is an AI-powered crop recommendation and farming advisory system developed using Machine Learning, Flask API, React.js, and scikit-learn.
 
 The system recommends suitable crops based on soil nutrients and environmental conditions while also providing personalized farming guidance.
+
 
 ---
 
@@ -71,6 +75,17 @@ cd smartkrishi-ai-crop-recommendation
 pip install -r requirements.txt
 python app.py
 ```
+## 👨‍💻 Contribution
+
+This project was collaboratively developed as part of a group project.
+
+My primary contributions included:
+- Machine Learning model integration
+- Backend development using Flask
+- REST API implementation
+- Weather API integration
+- Recommendation system logic
+
 
 
 
